@@ -12,11 +12,11 @@ Bu repo [Kodluyoruz Sayfamız](https://www.kodluyoruz.org/) Front-end Eğitimind
 Projeyi cloneladıktan sonra Visual Studio Code programında açın.
 Linux için:
 
-```cd kodluyoruz ilk repo
-code . ```
+``cd kodluyoruz ilk repo
+code . ``
 
 # Contributing
-Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizitartışmak için konu açınız.
+Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 
 # License 
 [MIT]
